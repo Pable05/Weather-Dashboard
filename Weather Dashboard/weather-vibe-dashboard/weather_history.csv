@@ -1,0 +1,10 @@
+timestamp,city,temperature_c,humidity,condition
+2025-11-12,Kuala Lumpur,29.3,66,Clouds
+2025-11-12,Tokyo,21.6,72,Light Rain
+2025-11-12,London,16.9,67,Overcast
+2025-11-12 12:26:32,chennai,29.4,82,Mist
+2025-11-12 12:26:34,Kuala Lumpur,29.63,67,Clouds
+2025-11-12 12:26:36,London,14.52,84,Clouds
+2025-11-12 12:29:38,chennai,29.4,82,Mist
+2025-11-12 12:29:41,Kuala Lumpur,29.63,67,Clouds
+2025-11-12 12:29:43,London,14.52,84,Clouds

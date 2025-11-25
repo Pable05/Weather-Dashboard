@@ -1,0 +1,16 @@
+timestamp,city,temperature_c,humidity,condition
+2025-11-12 12:42:20,chennai,29.9,75,Mist
+2025-11-12 12:42:35,chennai,29.9,75,Mist
+2025-11-12 12:42:35,chennai,29.9,75,Mist
+2025-11-12 12:42:37,milan,9.13,84,Clouds
+2025-11-12 12:44:36,chennai,29.9,75,Mist
+2025-11-12 12:44:36,kuala lumpur,29.63,67,Clouds
+2025-11-12 12:44:37,milan,9.13,84,Clouds
+2025-11-12 12:44:38,chennai,29.9,75,Mist
+2025-11-12 12:44:39,milan,9.13,84,Clouds
+2025-11-12 12:44:46,kuala lumpur,29.63,67,Clouds
+2025-11-12 12:44:47,chennai,29.9,75,Mist
+2025-11-12 12:44:48,milan,9.13,84,Clouds
+2025-11-12 12:45:37,kuala lumpur,29.63,67,Clouds
+2025-11-12 12:45:38,chennai,29.9,75,Mist
+2025-11-12 12:45:39,milan,9.13,84,Clouds
